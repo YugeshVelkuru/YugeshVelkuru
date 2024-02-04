@@ -1,4 +1,4 @@
-- 🔭 I’m currently working on **Netflix Clone**
+- 🔭 I’m currently working on **MERN Stack**
 
 - 🌱 I’m currently learning **React Native**
 
